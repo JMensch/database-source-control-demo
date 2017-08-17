@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=myproject
+%uri=https://myproject/
+
+users 2017-08-17T22:07:28Z James Mensch <james@otterplan.com> # add users table
+users-email-col 2017-08-17T22:21:24Z James Mensch <james@otterplan.com> # add users.email
